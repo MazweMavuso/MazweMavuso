@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @MazweMavuso
 - 👀 I’m interested in Web Development Front end (HTML,CSS,Javascript)
+- 👀 I also love doing front end development in mobile app development (android studio)
+- 👀 my favorite coding languages c#, c++ (OOP)
 - 🌱 I’m currently learning Business Information Technoogy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  @ mazwe.mavuso9685@gmail.com
