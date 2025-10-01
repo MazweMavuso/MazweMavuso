@@ -19,7 +19,7 @@ I’m driven to build tech solutions that solve real-world problems—most recen
 
 ## 🧰 Tech Stack
 
-- 💻 **Languages**: PHP, JavaScript, C#, HTML5, CSS3, SQL  
+- 💻 **Languages**: PHP, JavaScript, C#, HTML5, CSS3, SQL,mongodb, prosgress,
 - 🧱 **Frameworks**: CodeIgniter 4, Laravel (learning), Bootstrap  
 - 🗄️ **Database**: MySQL  
 - 🌐 **Tools**: Git & GitHub, VS Code, Postman, XAMPP, Figma  
